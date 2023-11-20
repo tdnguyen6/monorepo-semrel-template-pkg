@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/tdnguyen6/monorepo-semrel-template-pkg/compare/1.0.1...1.0.2) (2023-11-20)
+
+
+### 📚 Documentation
+
+* **readme:** Add submodule pkg@1.0.0 ([bb9c1f0](https://github.com/tdnguyen6/monorepo-semrel-template-pkg/commit/bb9c1f008536928c3ed8a2bd2bb8a59c991c0061))
+
 ## [1.0.1](https://github.com/tdnguyen6/monorepo-semrel-template-pkg/compare/1.0.0...1.0.1) (2023-11-20)
 
 
