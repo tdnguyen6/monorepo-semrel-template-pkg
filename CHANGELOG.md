@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/tdnguyen6/monorepo-semrel-template-pkg/compare/1.0.0...1.0.1) (2023-11-20)
+
+
+### 🐛 Bug Fixes
+
+* test release ([7631ed5](https://github.com/tdnguyen6/monorepo-semrel-template-pkg/commit/7631ed5fd2a2a73763e917f10cc31c278cbcd020))
+
 ## 1.0.0 (2023-11-20)
 
 
