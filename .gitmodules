@@ -1,3 +1,3 @@
 [submodule "submodules/pkg@1.0.0"]
 	path = submodules/pkg@1.0.0
-	url = git@tdngh:tdnguyen6/monorepo-semrel-template-pkg
+	url = https://github.com/tdnguyen6/monorepo-semrel-template-pkg
